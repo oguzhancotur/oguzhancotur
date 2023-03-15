@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oğuzhan Çotur</h1>
 <h3 align="center">I am a mechatronics engineer.</h3>
 
-- 🌱 I’m currently learning **Html,Css,Bootstrap,Javascript.**
+- 🌱 I’m currently learning **Html,Css,Bootstrap,Javascript,Python.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
