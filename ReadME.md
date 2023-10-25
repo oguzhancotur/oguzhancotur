@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Oğuzhan Çotur</h1>
-<h3 align="center">I am a mechatronics engineer.</h3>
+<h3 align="center">I am a mechatronics engineer. </h3>
+<h3 align="center">I am a Flutter Developer. </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
