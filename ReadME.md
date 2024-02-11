@@ -5,7 +5,8 @@
 </div>
 
 
-<img src="https://github.com/oguzhancotur/oguzhancotur/assets/125301595/99f13ecb-7293-4f1d-8df9-886552497188" width=200 height=200 align="right">
+
+<img src="https://github.com/oguzhancotur/oguzhancotur/assets/125301595/7dfeb66b-23b4-4884-98fc-38930521b413" width=250 height=150 align="right">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
