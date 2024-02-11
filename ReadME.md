@@ -4,7 +4,7 @@
  </a>
 </div>
 
-<div class="tenor-gif-embed" data-postid="12975466" data-share-method="host" data-aspect-ratio="1.7574" data-width="100%"><a href="https://tenor.com/view/work-work-work-work-work-sleep-repeat-sleep-work-around-the-clock-gif-12975466">Work Work Work Work GIF</a>from <a href="https://tenor.com/search/work+work+work-gifs">Work Work Work GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img src="https://tenor.com/tr/view/work-work-work-work-work-sleep-repeat-sleep-work-around-the-clock-gif-12975466" alt="Coding" width=200 height=200 align="right">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
