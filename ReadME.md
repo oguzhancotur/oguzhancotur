@@ -4,7 +4,7 @@
  </a>
 </div>
 
-<img src="https://tenor.com/tr/view/work-work-work-work-work-sleep-repeat-sleep-work-around-the-clock-gif-12975466" alt="Coding" width=200 height=200 align="right">
+<img src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" alt="Coding" width=200 height=200 align="right">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
