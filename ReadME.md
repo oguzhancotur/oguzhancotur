@@ -1,4 +1,10 @@
-![flutterbackground (1)](https://github.com/oguzhancotur/oguzhancotur/assets/125301595/5dda5ff7-6a89-4f08-a282-aabf2e9badbe)
+<div align="center">
+ <a href="https://github.com/oguzhancotur">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Oğuzhan+Çotur+%e2%9c%a8;%f0%9f%93%9a+Flutter+Developer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
+ </a>
+</div>
+
+<div class="tenor-gif-embed" data-postid="12975466" data-share-method="host" data-aspect-ratio="1.7574" data-width="100%"><a href="https://tenor.com/view/work-work-work-work-work-sleep-repeat-sleep-work-around-the-clock-gif-12975466">Work Work Work Work GIF</a>from <a href="https://tenor.com/search/work+work+work-gifs">Work Work Work GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
